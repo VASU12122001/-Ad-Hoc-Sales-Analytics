@@ -67,7 +67,7 @@ Initially, AtliQ relied on spreadsheets and manual record-keeping to manage its 
 ## Business Questions and Insights 
 
 | # | Business Question | Link |
-|--|------------|-------|
+|--|------------|---------|
 | 1 | What is the fiscal year for a specific date, considering a 4-month offset, to ensure consistent financial reporting?| [Task 1a](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Fiscal_Year%20Task%201a.sql) |
 | 2 | How can we determine the fiscal quarter for a given calendar date to align sales reporting with our fiscal calendar?| [Task 1b](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Quarters%20Task%201b.sql) |
 | 3 | What is the total gross sales amount for each customer and product, combining sold quantity and gross price per item? | [Task 2](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Gross_sales%20Task%202.sql) | 
