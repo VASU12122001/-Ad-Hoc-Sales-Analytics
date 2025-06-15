@@ -69,7 +69,7 @@ Initially, AtliQ relied on spreadsheets and manual record-keeping to manage its 
 | # | Business Question | Insight Summary | Link |
 |--|------------|------------|-------|
 | 1 | What is the fiscal year for a specific date, considering a 4-month offset, to ensure consistent financial reporting?| [Task 1a](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Fiscal_Year%20Task%201a.sql) |
-| 2 | How can we determine the fiscal quarter for a given calendar date to align sales reporting with our fiscal calendar?| [Task 1b]([https://github.com/VASU12122001/SQL-Project-Consumer-Goods-Ad-hoc-Insights/blob/main/Solutions%20(SQL%20Queries)/Task%202.sql](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Quarters%20Task%201b.sql) |
+| 2 | How can we determine the fiscal quarter for a given calendar date to align sales reporting with our fiscal calendar?| [Task 1b](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Quarters%20Task%201b.sql) |
 | 3 | What is the total gross sales amount for each customer and product, combining sold quantity and gross price per item? | [Task 2](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Gross_sales%20Task%202.sql) | 
 | 4 | Which markets achieved a "GOLD" badge based on total sold quantity exceeding 5 million units in fiscal year 2021? | [Task 3](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Get_Market_Badge%20Task%203.sql) |
 | 5 | How can we calculate net sales after applying post-invoice discounts for all transactions, including customer and product details? | [Task 4](https://github.com/VASU12122001/-Ad-Hoc-Sales-Analytics/blob/main/Net%20Sales%20Task%204.sql) |
